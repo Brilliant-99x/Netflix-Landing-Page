@@ -176,7 +176,7 @@ button:hover {
 
 /* Responsive for mobile */
 @media only screen and (max-width: 768px) {
-    /* Adjust the header for mobile */
+    /* header adjustments */
     
     .logo {
         width: 150px;
@@ -217,7 +217,7 @@ button:hover {
         margin-bottom: 10px;
     }
 
-    /* Adjust features section for mobile */
+    /* features adjustments */
     .features {
         flex-direction: column;
         padding: 20px;
